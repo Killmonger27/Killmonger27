@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Killmonger27
 - 👀 I’m interested in new technologies
-- 🌱 I’m currently learning advanced JS
-- 💞️ I’m looking to collaborate on projects that need JS
+- 🌱 I’m currently learning Angular and Spring boot
+- 💞️ I’m looking to collaborate on projects that can help me to improve my skills
 - 📫 Just send me an email at landryouarma45@gmail.com
 
 <!---
