@@ -1,17 +1,13 @@
 <!-- Dynamic banner -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Hi%20there,%20I'm%20Landry%20Ouarma!&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
-
 ## About Me
 - Web & Mobile Developer | Aspiring DevOps Engineer  
-- Building with **Java Spring Boot, PHP/Laravel, React, Flutter, Next.js, Go**  
-- Exploring **DevOps** with **Ansible, Vagrant, Docker, Kubernetes, Linux**  
 - Always learning, always sharing 🚀  
 
 ---
 
 ## Languages & Tools
 
-### Web & Backend
 <p>
   <img src="https://img.shields.io/badge/Java_Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
@@ -22,7 +18,6 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
 
-### Frontend & Mobile
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -30,7 +25,6 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 </p>
 
-### DevOps & Tools
 <p>
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white"/>
@@ -63,7 +57,6 @@
   <a href="https://www.killmonger.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
----
 
 <!-- Footer -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer)
